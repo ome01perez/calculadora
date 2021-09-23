@@ -1,5 +1,6 @@
 body {
     margin-top: 5%;  font: 80px arial,helvetica,sans-serif; font-size:50px;   
+    background-color: wheat;
 }
 
 table {
@@ -25,4 +26,8 @@ input{
     border-radius: 15px;
     font-size: 50px;
 }
-button{padding: 10px; }   
+button{padding: 10px; }  
+h1{
+    font-size: 34px;
+    text-align: center;
+} 
