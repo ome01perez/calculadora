@@ -1,0 +1,28 @@
+body {
+    margin-top: 5%;  font: 80px arial,helvetica,sans-serif; font-size:50px;   
+}
+
+table {
+    background-color: cadetblue; border-radius: 15px;  padding: 3px;
+}
+.boton1{
+    font-size: 50px;
+    margin: center;
+    margin-left:10px;
+    background-color: skyblue;
+    width: 80px;
+    height: 80px;
+    border-radius: 15px;
+    border:5px solid #909393;
+    border: 8px outset;
+
+}
+input{
+    margin-top: 5%;
+    width: 400px;
+    height: 80px;
+    border: 5px solid #909393;
+    border-radius: 15px;
+    font-size: 50px;
+}
+button{padding: 10px; }   
